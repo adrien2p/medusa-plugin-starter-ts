@@ -5,4 +5,4 @@ node_modules
 src
 coverage
 
-
+tsconfig.tsbuildinfo

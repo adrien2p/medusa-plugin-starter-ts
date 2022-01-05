@@ -2,7 +2,7 @@
   "name": "medusa-plugin-starter-ts",
   "version": "1.0.0",
   "description": "A plugin starter for medusa using typescript and pre-configured",
-  "main": "src/index.ts",
+  "main": "index.js",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
