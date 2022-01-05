@@ -6,7 +6,7 @@
   <h1>Plugin starter (Typescript)</h1>
   <p>Start to write your own plugin as quick as possible</p>
     
-  <a href="https://awesome.re">
+  <a href="https://github.com/adrien2p/awesome-medusajs">
       <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
 </div>
