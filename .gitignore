@@ -4,16 +4,15 @@ node_modules
 .DS_store
 .env*
 /*.js
-!src/index.ts
-!jest.config.js
 
 dist
 coverage
 
-api
-services
-models
-subscribers
-migrations
-./index.*
+api/
+services/
+models/
+subscribers/
+migrations/
+index.*
 
+!src/**
