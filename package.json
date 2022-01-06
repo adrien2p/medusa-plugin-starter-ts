@@ -10,15 +10,12 @@
   },
   "author": "Adrien de Peretti <adrien.deperetti@gmail.com>",
   "license": "MIT",
-<<<<<<< HEAD
-=======
   "scripts": {
     "clean": "./node_modules/.bin/rimraf services/ models/ migrations/ api/ subscribers/ index.js index.map.js",
     "build": "npm run build && tsc -p tsconfig.json",
     "watch": "tsc --watch",
     "test": "jest"
   },
->>>>>>> 223b933... Feat() Update readme and improve scripts
   "devDependencies": {
     "@medusajs/medusa": "^1.x",
     "@types/express": "^4.17.13",
@@ -30,18 +27,9 @@
     "medusa-interfaces": "1.x",
     "ts-jest": "^27.0.7",
     "ts-loader": "^9.2.6",
-<<<<<<< HEAD
-    "typescript": "^4.5.2"
-  },
-  "scripts": {
-    "build": "tsc -p tsconfig.json",
-    "watch": "tsc --watch",
-    "test": "jest"
-=======
     "typescript": "^4.5.2",
     "mongoose": "^5.13.14",
     "rimraf": "^3.0.2"
->>>>>>> 223b933... Feat() Update readme and improve scripts
   },
   "peerDependencies": {
     "medusa-interfaces": "1.x",
