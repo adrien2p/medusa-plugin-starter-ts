@@ -18,3 +18,5 @@ index.*
 !src/**
 
 ./tsconfig.tsbuildinfo
+./package-lock.json
+./yarn.json
