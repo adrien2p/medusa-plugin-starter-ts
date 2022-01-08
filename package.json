@@ -8,6 +8,15 @@
     "type": "git",
     "url": "https://github.com/adrien2p/medusa-plugin-starter-ts"
   },
+  "keywords": [
+    "medusa",
+    "medusajs",
+    "starter",
+    "typescript",
+    "plugin",
+    "ecommerce",
+    "e-commerce"
+  ],
   "author": "Adrien de Peretti <adrien.deperetti@gmail.com>",
   "license": "MIT",
   "scripts": {

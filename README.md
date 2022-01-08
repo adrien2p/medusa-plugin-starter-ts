@@ -27,9 +27,9 @@ git clone git@github.com:adrien2p/medusa-plugin-starter-ts.git
 
 Those routes will automatically be attached by medusa to the `admin` path.
 
-### Post routes
+### Store routes
 
-Those routes will automatically be attached by medusa to the `post` path.
+Those routes will automatically be attached by medusa to the `store` path.
 
 ### Custom routes
 
@@ -49,6 +49,11 @@ events you want to listen to.
 
 Those services will be automatically added to the medusa container and will be available
 in any other service through the constructor injection.
+
+## Loaders
+
+Those will be applied during the loading and allow you to register custom components
+to the container to be accessible later on.
 
 # Deployment
 
