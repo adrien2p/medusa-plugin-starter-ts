@@ -10,7 +10,7 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "declaration": false,
-    "sourceMap": true,
+    "sourceMap": false,
     "outDir": ".",
     "rootDir": "src",
     "baseUrl": "src"
